@@ -6,7 +6,7 @@
 + NODE_ENV
 ```
 ```
-+ ###plugins 
+###plugins 
 + DefinePlugin
 + UglifyJsPlugin
 ```
